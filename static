@@ -1,0 +1,60 @@
+MBBAGSTORE ADMIN.css
+<head>
+  <title></>
+  <link rel="stylesheet"
+  href ="base.css" />
+    <style>
+  </style>
+  </head>
+body {
+  background-color: powderblue;
+  background:#eef;
+  color: #909;font :200 "Palatino Linotype",palatino seri;
+}
+h1 {
+  color: gold;
+  background:#eef;
+  color: #909;font :100 "Palatino Linotype",palatino seri;
+  
+}
+h4 {
+  color: green;
+  
+}
+padding-right
+p {
+  color: red;
+}.css
+<head>
+  <title></>
+  <link rel="stylesheet"
+  href ="base.css" />
+    <style>
+  </style>
+  </head>
+body {
+  background-color: powderblue;
+  background:#eef;
+  color: #909;font :100 "Palatino Linotype",palatino seri;
+}
+h1 {
+  color: gold;
+  background:#eef;
+  color: #909;font :100 "Palatino Linotype",palatino seri;
+  
+}
+h4 {
+  color: green;
+  
+}
+h3 {
+  color: Red;
+  
+}
+
+padding-right
+
+
+p {
+  color: red;
+}
